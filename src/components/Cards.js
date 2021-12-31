@@ -1,8 +1,10 @@
 import "../styles/cards.scss"
 import Stories from "./Stories"
 import Card from "./Card"
-import image from "../images/dp.JPG"
+
 import Post from "../data/Post"
+
+
 
 
 function Cards()
@@ -29,13 +31,13 @@ function Cards()
          accountName={Post[number].accountName} 
          comments={Post[number].comments}
          storyBorder={Post[number].storyBorder}
-        image={image}
+        image={Post[number].image}
         likedByText={Post[number].likedByText}
         likedByNumber={Post[number].likedByNumber}
         hours={Post[number].hours}
         post={Post[number].post}
-        profile={image}
-          />
+        profile={Post[number].dp}
+        post1= {Post[number].post1}         />
  ))}  
             {/* <Card
         accountName="rafagrassetti"

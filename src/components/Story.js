@@ -1,13 +1,13 @@
 import "../styles/story.scss"
 import ProfileIcon from "./ProfileIcon";
-import users from "../data/user";
+// import users from "../data/user";
 
-import Dp from "../images/dp.JPG"
+
 
 function Story(props)
 {
-    const {number}=props;
-    let accountName=users[number].username;
+    const {name,image}=props;
+    let accountName=name;
 
     if (accountName.length>10){
         accountName=accountName.substring(0,10)+"...";
@@ -15,7 +15,7 @@ function Story(props)
 
     return (
         <div  className="story">
-            <ProfileIcon iconSize="big" image={Dp} storyBorder={true}/>
+            <ProfileIcon iconSize="big" image={image} storyBorder={true}/>
             <span className="accountName">{accountName}</span>
         </div>
     )

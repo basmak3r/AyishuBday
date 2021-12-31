@@ -18,7 +18,7 @@ function Card(props) {
     likedByNumber,
     hours,
     post,profile,
-    accountName
+    accountName,post1
   } = props;
 
   const [open, setOpen] = useState(false);
@@ -47,7 +47,7 @@ function Card(props) {
         <Collapse isOpened={open}>
         <div>
            
-             Some more texts here... <a   onClick={() => setOpen( !open )}>
+             {post1} <a   onClick={() => setOpen( !open )}>
           <Collapse isOpened={open}>
           See less</Collapse></a>         
         </div>
@@ -66,7 +66,7 @@ function Card(props) {
           );
         })}
       </div>
-      <div className="timePosted">{hours} HOURS AGO</div>
+      <div className="timePosted">{hours} </div>
       <div className="addComment">
         <div className="commentText">Add a comment...</div>
         <div className="postText">Post</div>

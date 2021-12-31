@@ -1,25 +1,28 @@
+import p1 from "../images/Post/1.jpg"
+import p2 from "../images/Post/2.JPG"
+
+
+
+
+import d2 from "../images/dp/2.JPG"
+
 const commentsOne = [
     {
-      user: "raffagrassetti",
-      text: "Woah dude, this is awesome!🔥",
+      user: "a_k_menon",
+      text: "Enike Thinade irine kayikada 😒",
       id: 1,
-    },
-    {
-      user: "therealadamsavage",
-      text: "Like!",
-      id: 2,
-    },
-    {
-      user: "mapvault",
-      text: "Niceeeee!",
-      id: 3,
     },
   ];
 
   const commentsTwo = [
     {
-      user: "mapvault",
-      text: "Amazing content, keep it up!",
+      user: "_the_fallen.mist",
+      text: "U 2 guys ente opam nine pic iduthilalo",
+      id: 4,
+    },
+    {
+      user: "rohit_georgergt8",
+      text: "#pavam_chair_oppam",
       id: 4,
     },
   ];
@@ -34,23 +37,31 @@ const commentsOne = [
 
 const Post = [
     {
-        accountName:"rafagrassetti",
-        storyBorder:true,
+        accountName:"kaju katli",
+        storyBorder:false,
         comments:commentsOne,
-        likedByText:"dadatlacak",
+        likedByText:"sumayya_navas_",
         likedByNumber:89,
-        hours:16,
-      post:"helo how are you iam ajaj helo how are you iam ajaj",
+        image:p1,
+        dp:p1,
+        hours:"DECEMBER 22, 2021",
+        post:"Ayishu chelathe namale aghrakium athe pakshe namale aghraikandavthe kittanam ila",
+        post1:`ninode njan ithe kondu varan parnjila paskhe nee ithe kodu vanile kore naaaley aghrikanu kayikan..... kazhichila! pakshe nee arinju konduvanile Thank u da🥰 `
       
     },
 
     {
-        accountName:"rafagrassetti",
-        storyBorder:true,
-        comments:commentsTwo,
-        likedByText:"dadatlacak",
-        likedByNumber:0,
-        hours:16,
+      accountName:"ieeefisatsb",
+      storyBorder:false,
+      comments:commentsTwo,
+      likedByText:"dev_nandan__",
+      likedByNumber:200,
+      image:p2,
+      dp:d2,
+      hours:"DECEMBER 5, 2021",
+      post:"Ayishu chelathe namale aghrakium athe pakshe namale aghraikandavthe kittanam ila",
+      post1:`ninode njan ithe kondu varan parnjila paskhe nee ithe kodu vanile kore naaaley aghrikanu kayikan..... kazhichila! pakshe nee arinju konduvanile Thank u da🥰 `
+    
       },
   ];
   
