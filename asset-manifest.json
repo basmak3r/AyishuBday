@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/AyishuBday/static/css/main.caee67ed.chunk.css",
+    "main.js": "/AyishuBday/static/js/main.dc1e8115.chunk.js",
+    "main.js.map": "/AyishuBday/static/js/main.dc1e8115.chunk.js.map",
+    "runtime-main.js": "/AyishuBday/static/js/runtime-main.0c54c2a9.js",
+    "runtime-main.js.map": "/AyishuBday/static/js/runtime-main.0c54c2a9.js.map",
+    "static/js/2.66a7e17d.chunk.js": "/AyishuBday/static/js/2.66a7e17d.chunk.js",
+    "static/js/2.66a7e17d.chunk.js.map": "/AyishuBday/static/js/2.66a7e17d.chunk.js.map",
+    "index.html": "/AyishuBday/index.html",
+    "static/css/main.caee67ed.chunk.css.map": "/AyishuBday/static/css/main.caee67ed.chunk.css.map",
+    "static/js/2.66a7e17d.chunk.js.LICENSE.txt": "/AyishuBday/static/js/2.66a7e17d.chunk.js.LICENSE.txt",
+    "static/media/1.98cdab50.jpg": "/AyishuBday/static/media/1.98cdab50.jpg",
+    "static/media/2.79fad5f4.JPG": "/AyishuBday/static/media/2.79fad5f4.JPG",
+    "static/media/2.990f2698.JPG": "/AyishuBday/static/media/2.990f2698.JPG",
+    "static/media/A.13a8ac9a.gif": "/AyishuBday/static/media/A.13a8ac9a.gif",
+    "static/media/B.f9d13a46.gif": "/AyishuBday/static/media/B.f9d13a46.gif",
+    "static/media/D.90bd5f0f.gif": "/AyishuBday/static/media/D.90bd5f0f.gif",
+    "static/media/F.2f4c34a6.gif": "/AyishuBday/static/media/F.2f4c34a6.gif",
+    "static/media/H.0a82d7c4.gif": "/AyishuBday/static/media/H.0a82d7c4.gif",
+    "static/media/I.28ee04ce.gif": "/AyishuBday/static/media/I.28ee04ce.gif",
+    "static/media/P.e3fa2e32.gif": "/AyishuBday/static/media/P.e3fa2e32.gif",
+    "static/media/R.e7bc4b3a.gif": "/AyishuBday/static/media/R.e7bc4b3a.gif",
+    "static/media/T.9088614c.gif": "/AyishuBday/static/media/T.9088614c.gif",
+    "static/media/Y.d3fdf697.gif": "/AyishuBday/static/media/Y.d3fdf697.gif",
+    "static/media/bookmark.dce2fb84.svg": "/AyishuBday/static/media/bookmark.dce2fb84.svg",
+    "static/media/cardButton.3ea56b27.svg": "/AyishuBday/static/media/cardButton.3ea56b27.svg",
+    "static/media/comments.339a875a.svg": "/AyishuBday/static/media/comments.339a875a.svg",
+    "static/media/dp.990f2698.JPG": "/AyishuBday/static/media/dp.990f2698.JPG",
+    "static/media/explore.4b13b88b.svg": "/AyishuBday/static/media/explore.4b13b88b.svg",
+    "static/media/home.6a978a26.svg": "/AyishuBday/static/media/home.6a978a26.svg",
+    "static/media/inbox.d222bb94.svg": "/AyishuBday/static/media/inbox.d222bb94.svg",
+    "static/media/message.e43c229b.svg": "/AyishuBday/static/media/message.e43c229b.svg",
+    "static/media/notification.bb109b29.svg": "/AyishuBday/static/media/notification.bb109b29.svg",
+    "static/media/notifications.cd2a3886.svg": "/AyishuBday/static/media/notifications.cd2a3886.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c54c2a9.js",
+    "static/js/2.66a7e17d.chunk.js",
+    "static/css/main.caee67ed.chunk.css",
+    "static/js/main.dc1e8115.chunk.js"
+  ]
+}
